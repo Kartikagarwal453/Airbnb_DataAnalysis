@@ -33,7 +33,8 @@ The analysis is performed using Python with the following libraries:
 Airbnb_DataAnalysis/
 ├── Airbnb_Open_Data.csv      # Dataset file
 ├── Data_analysis.ipynb       # Jupyter notebook with analysis
-└── README.md                 # Project documentation
+├── README.md                 # Project documentation
+└── Airbnb Data Analysis Project Report.pdf                 # Project report
 ```
 
 ## 🔍 Analysis Steps
